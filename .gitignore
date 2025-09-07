@@ -1,0 +1,23 @@
+# Python
+*.pyc
+__pycache__/
+
+# Django
+db.sqlite3
+
+# Virtual environment
+.venv/
+env/
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# User uploads (if needed)
+StudentApp/static/files/
+
+# VS Code settings (optional)
+.vscode/
